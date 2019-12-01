@@ -10,7 +10,7 @@
   "migrationsTableName": "custom_migration_table",
   "migrations": ["db/migrations/*.js"],
   "cli": {
-      "migrationsDir": "migration",
+      "migrationsDir": "db/migration",
       "entitiesDir": "src"
   }
 }
